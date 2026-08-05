@@ -16,3 +16,67 @@ Creación de tablas y modelo entidad relación.
 
 <img width="921" height="409" alt="image" src="https://github.com/user-attachments/assets/45805c9b-13f4-4792-bc7a-4618f47ee2b9" />
 
+<img width="539" height="785" alt="image" src="https://github.com/user-attachments/assets/f078d2f8-2e3b-4ea5-b279-9fd895aa15f2" />
+
+
+DIAGRAMA ENTIDAD RELACION.
+
+<img width="967" height="558" alt="image" src="https://github.com/user-attachments/assets/6ad5a3ad-5317-482c-aaa3-6859fbf17f66" />
+
+
+Recurso	Tipo	Función
+casoFinBank	Azure Data Factory	-Donde  están los pipeline 
+datoscaso1-	Cuenta de almacenamiento (Storage Account)	Contiene el archivo los archivos cvs 
+FinBank S.A	Azure SQL Database	Base de datos
+caso1	SQL Server	Servidor que aloja  la base de datos FinBank S.A.
+FinBank	Grupo de recursos	Contenedor de todos los recursos.
+
+Se debe realizar la conexión del servidor, Aquí al darle inicio nos sale la información del nombre del servidor creado
+
+<img width="921" height="484" alt="image" src="https://github.com/user-attachments/assets/76c67419-5940-4e8b-a9ce-ab1ae71e7139" />
+
+
+
+
+Se realiza la conexión de la base de datos en SQL Server Management y Azure
+
+ <img width="921" height="445" alt="image" src="https://github.com/user-attachments/assets/847cd2c7-548c-45b8-9490-b28ddf618672" />
+
+ 
+
+Se crea el Storage Account.    En este caso le coloque el nombre de datos caso1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Luego una vez se haya creado los archivos de CVS  en el cual se encuentran los datos sintéticos se procede a realizar el cargue de estos 
+
+
+
+ 
+
+Una vez creado  en este caso se llama datos   accedemos 
+ 
+Y buscamos los archivos cvs que se adjuntaran.
+ 
+Archivos cvs cargados satisfactoriamente
+ 
+Una vez creados se procede a  Azure Data Factory
+
+
+
