@@ -78,4 +78,13 @@ Archivos cvs cargados satisfactoriamente
 Una vez creados se procede a  Azure Data Factory
 
 
+CREANDO EL DATASET.
+
+<img width="1909" height="963" alt="image" src="https://github.com/user-attachments/assets/26f1d0f7-2e4a-4f4b-8ed1-6f039efbd54b" />
+
+
+
+
+
+
 
