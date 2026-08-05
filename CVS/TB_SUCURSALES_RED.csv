@@ -1,0 +1,201 @@
+﻿cod_suc,nom_suc,tip_punto,ciudad,depto,latitud,longitud,activo
+SUC001,Sucursal Ibagué 1,Cajero,Ibagué,Tolima,7.70319,-70.67622,INACTIVO
+SUC002,Sucursal San Andrés 2,Cajero,San Andrés,San Andrés y Providencia,0.61636,-75.70073,ACTIVO
+SUC003,Sucursal Ibagué 3,Corresponsal,Ibagué,Tolima,7.64754,-74.61234,ACTIVO
+SUC004,Sucursal Armenia 4,Corresponsal,Armenia,Quindío,-1.40286,-73.52573,INACTIVO
+SUC005,Sucursal Bogotá 5,Cajero,Bogotá,Cundinamarca,-3.88223,-80.50766,ACTIVO
+SUC006,Sucursal Villavicencio 6,Oficina Principal,Villavicencio,Meta,12.86497,-68.05376,ACTIVO
+SUC007,Sucursal Barranquilla 7,Corresponsal,Barranquilla,Atlántico,-4.29108,-74.42052,ACTIVO
+SUC008,Sucursal Ibagué 8,Sucursal,Ibagué,Tolima,7.74926,-71.98366,INACTIVO
+SUC009,Sucursal Bogotá 9,Cajero,Bogotá,Cundinamarca,12.18969,-76.07474,ACTIVO
+SUC010,Sucursal Cali 10,Oficina Principal,Cali,Valle del Cauca,8.07886,-75.51748,INACTIVO
+SUC011,Sucursal Armenia 11,Sucursal,Armenia,Quindío,11.08996,-72.35954,ACTIVO
+SUC012,Sucursal Fusagasugá 12,Oficina Principal,Fusagasugá,Cundinamarca,-2.23161,-67.79946,ACTIVO
+SUC013,Sucursal Cartagena 13,Cajero,Cartagena,Bolívar,-4.36732,-70.31518,INACTIVO
+SUC014,Sucursal San Andrés 14,Corresponsal,San Andrés,San Andrés y Providencia,5.19571,-72.77219,ACTIVO
+SUC015,Sucursal Medellín 15,Oficina Principal,Medellín,Antioquia,6.47384,-76.53156,INACTIVO
+SUC016,Sucursal Cali 16,Corresponsal,Cali,Valle del Cauca,9.16411,-72.13296,INACTIVO
+SUC017,Sucursal Fusagasugá 17,Corresponsal,Fusagasugá,Cundinamarca,-2.78283,-76.92562,INACTIVO
+SUC018,Sucursal Fusagasugá 18,Corresponsal,Fusagasugá,Cundinamarca,0.29781,-77.22277,ACTIVO
+SUC019,Sucursal Medellín 19,Cajero,Medellín,Antioquia,10.02239,-77.6839,INACTIVO
+SUC020,Sucursal Armenia 20,Corresponsal,Armenia,Quindío,1.61737,-77.57296,INACTIVO
+SUC021,Sucursal Barranquilla 21,Corresponsal,Barranquilla,Atlántico,-2.91686,-81.08304,INACTIVO
+SUC022,Sucursal Fusagasugá 22,Corresponsal,Fusagasugá,Cundinamarca,-1.65549,-81.34243,INACTIVO
+SUC023,Sucursal Ibagué 23,Oficina Principal,Ibagué,Tolima,12.71125,-73.34302,ACTIVO
+SUC024,Sucursal Villavicencio 24,Corresponsal,Villavicencio,Meta,-4.5658,-76.10692,ACTIVO
+SUC025,Sucursal Ibagué 25,Corresponsal,Ibagué,Tolima,2.37128,-81.41624,ACTIVO
+SUC026,Sucursal Armenia 26,Oficina Principal,Armenia,Quindío,4.56434,-67.1395,ACTIVO
+SUC027,Sucursal Ibagué 27,Corresponsal,Ibagué,Tolima,-0.18739,-81.62848,INACTIVO
+SUC028,Sucursal Medellín 28,Corresponsal,Medellín,Antioquia,11.15493,-72.81011,ACTIVO
+SUC029,Sucursal Medellín 29,Cajero,Medellín,Antioquia,0.26667,-68.33104,ACTIVO
+SUC030,Sucursal San Andrés 30,Sucursal,San Andrés,San Andrés y Providencia,9.38601,-81.59795,INACTIVO
+SUC031,Sucursal Villavicencio 31,Sucursal,Villavicencio,Meta,4.3612,-77.11894,INACTIVO
+SUC032,Sucursal Bogotá 32,Cajero,Bogotá,Cundinamarca,4.93531,-74.57112,INACTIVO
+SUC033,Sucursal Cali 33,Oficina Principal,Cali,Valle del Cauca,-1.70734,-73.20727,INACTIVO
+SUC034,Sucursal Cali 34,Oficina Principal,Cali,Valle del Cauca,2.97336,-79.8963,INACTIVO
+SUC035,Sucursal Fusagasugá 35,Cajero,Fusagasugá,Cundinamarca,10.4329,-73.53154,INACTIVO
+SUC036,Sucursal Barranquilla 36,Corresponsal,Barranquilla,Atlántico,-0.98935,-79.89755,ACTIVO
+SUC037,Sucursal Cartagena 37,Sucursal,Cartagena,Bolívar,12.38695,-81.32903,ACTIVO
+SUC038,Sucursal Armenia 38,Corresponsal,Armenia,Quindío,7.82921,-69.65197,INACTIVO
+SUC039,Sucursal Medellín 39,Oficina Principal,Medellín,Antioquia,-1.34338,-68.03008,ACTIVO
+SUC040,Sucursal Cartagena 40,Oficina Principal,Cartagena,Bolívar,1.69581,-71.95602,ACTIVO
+SUC041,Sucursal Ibagué 41,Sucursal,Ibagué,Tolima,-2.97349,-80.74316,ACTIVO
+SUC042,Sucursal Villavicencio 42,Corresponsal,Villavicencio,Meta,12.32601,-69.49644,ACTIVO
+SUC043,Sucursal Villavicencio 43,Sucursal,Villavicencio,Meta,11.08646,-76.82256,ACTIVO
+SUC044,Sucursal Cali 44,Corresponsal,Cali,Valle del Cauca,-1.36217,-80.61294,INACTIVO
+SUC045,Sucursal Villavicencio 45,Oficina Principal,Villavicencio,Meta,-1.67702,-79.77801,INACTIVO
+SUC046,Sucursal Villavicencio 46,Oficina Principal,Villavicencio,Meta,9.17116,-67.98613,INACTIVO
+SUC047,Sucursal Cali 47,Oficina Principal,Cali,Valle del Cauca,6.79922,-80.88233,ACTIVO
+SUC048,Sucursal Barranquilla 48,Sucursal,Barranquilla,Atlántico,-3.48527,-81.43016,ACTIVO
+SUC049,Sucursal Ibagué 49,Oficina Principal,Ibagué,Tolima,4.22176,-79.37668,ACTIVO
+SUC050,Sucursal Cartagena 50,Oficina Principal,Cartagena,Bolívar,12.67808,-75.07847,INACTIVO
+SUC051,Sucursal Cali 51,Corresponsal,Cali,Valle del Cauca,4.331,-80.72901,ACTIVO
+SUC052,Sucursal Medellín 52,Cajero,Medellín,Antioquia,6.51655,-80.22152,ACTIVO
+SUC053,Sucursal Barranquilla 53,Cajero,Barranquilla,Atlántico,-2.9974,-66.90838,INACTIVO
+SUC054,Sucursal Ibagué 54,Oficina Principal,Ibagué,Tolima,-0.29507,-70.00602,INACTIVO
+SUC055,Sucursal Cartagena 55,Cajero,Cartagena,Bolívar,13.25165,-80.45818,ACTIVO
+SUC056,Sucursal Ibagué 56,Corresponsal,Ibagué,Tolima,10.40484,-67.37828,INACTIVO
+SUC057,Sucursal Barranquilla 57,Cajero,Barranquilla,Atlántico,-2.17267,-79.51441,INACTIVO
+SUC058,Sucursal Cartagena 58,Corresponsal,Cartagena,Bolívar,-2.15088,-71.59038,INACTIVO
+SUC059,Sucursal Bogotá 59,Cajero,Bogotá,Cundinamarca,9.80553,-74.64249,ACTIVO
+SUC060,Sucursal Medellín 60,Oficina Principal,Medellín,Antioquia,0.51744,-70.75154,ACTIVO
+SUC061,Sucursal Ibagué 61,Sucursal,Ibagué,Tolima,5.68949,-70.03965,ACTIVO
+SUC062,Sucursal Cartagena 62,Corresponsal,Cartagena,Bolívar,-1.82799,-72.51561,INACTIVO
+SUC063,Sucursal Cartagena 63,Corresponsal,Cartagena,Bolívar,-4.10037,-80.87816,ACTIVO
+SUC064,Sucursal Armenia 64,Sucursal,Armenia,Quindío,-4.45281,-73.37031,ACTIVO
+SUC065,Sucursal San Andrés 65,Cajero,San Andrés,San Andrés y Providencia,1.80634,-79.95667,ACTIVO
+SUC066,Sucursal Cali 66,Oficina Principal,Cali,Valle del Cauca,1.51772,-75.81644,ACTIVO
+SUC067,Sucursal Armenia 67,Oficina Principal,Armenia,Quindío,10.64728,-71.39934,INACTIVO
+SUC068,Sucursal Ibagué 68,Corresponsal,Ibagué,Tolima,9.35552,-76.09828,INACTIVO
+SUC069,Sucursal Cali 69,Sucursal,Cali,Valle del Cauca,7.27185,-75.73593,INACTIVO
+SUC070,Sucursal Barranquilla 70,Corresponsal,Barranquilla,Atlántico,7.90629,-72.52134,ACTIVO
+SUC071,Sucursal Cali 71,Cajero,Cali,Valle del Cauca,11.05227,-69.19024,ACTIVO
+SUC072,Sucursal Barranquilla 72,Oficina Principal,Barranquilla,Atlántico,3.69802,-80.32957,INACTIVO
+SUC073,Sucursal Barranquilla 73,Sucursal,Barranquilla,Atlántico,10.074,-80.57812,INACTIVO
+SUC074,Sucursal Medellín 74,Sucursal,Medellín,Antioquia,6.26634,-71.11975,INACTIVO
+SUC075,Sucursal Ibagué 75,Sucursal,Ibagué,Tolima,-2.48462,-72.84211,ACTIVO
+SUC076,Sucursal San Andrés 76,Cajero,San Andrés,San Andrés y Providencia,6.51767,-76.35053,INACTIVO
+SUC077,Sucursal San Andrés 77,Sucursal,San Andrés,San Andrés y Providencia,5.37138,-74.14304,ACTIVO
+SUC078,Sucursal Bogotá 78,Sucursal,Bogotá,Cundinamarca,5.75445,-77.30352,INACTIVO
+SUC079,Sucursal Bogotá 79,Sucursal,Bogotá,Cundinamarca,2.42686,-70.46812,ACTIVO
+SUC080,Sucursal Armenia 80,Cajero,Armenia,Quindío,5.27348,-70.73755,ACTIVO
+SUC081,Sucursal Fusagasugá 81,Oficina Principal,Fusagasugá,Cundinamarca,5.37476,-75.24938,ACTIVO
+SUC082,Sucursal Fusagasugá 82,Oficina Principal,Fusagasugá,Cundinamarca,-3.15143,-69.95776,ACTIVO
+SUC083,Sucursal Barranquilla 83,Corresponsal,Barranquilla,Atlántico,1.52676,-81.40436,INACTIVO
+SUC084,Sucursal Armenia 84,Oficina Principal,Armenia,Quindío,-4.44688,-79.48714,ACTIVO
+SUC085,Sucursal San Andrés 85,Oficina Principal,San Andrés,San Andrés y Providencia,3.50744,-71.7928,ACTIVO
+SUC086,Sucursal Fusagasugá 86,Sucursal,Fusagasugá,Cundinamarca,-3.63176,-76.46228,INACTIVO
+SUC087,Sucursal Fusagasugá 87,Cajero,Fusagasugá,Cundinamarca,2.62328,-75.11383,INACTIVO
+SUC088,Sucursal Barranquilla 88,Sucursal,Barranquilla,Atlántico,9.02784,-74.51384,INACTIVO
+SUC089,Sucursal Ibagué 89,Corresponsal,Ibagué,Tolima,8.44642,-72.89027,ACTIVO
+SUC090,Sucursal Medellín 90,Corresponsal,Medellín,Antioquia,-3.86742,-69.14859,INACTIVO
+SUC091,Sucursal Ibagué 91,Cajero,Ibagué,Tolima,1.55547,-68.46722,ACTIVO
+SUC092,Sucursal Cartagena 92,Corresponsal,Cartagena,Bolívar,10.86283,-76.28982,ACTIVO
+SUC093,Sucursal Cali 93,Sucursal,Cali,Valle del Cauca,-2.95521,-76.27858,ACTIVO
+SUC094,Sucursal Medellín 94,Cajero,Medellín,Antioquia,6.88049,-69.89775,INACTIVO
+SUC095,Sucursal Villavicencio 95,Sucursal,Villavicencio,Meta,10.89124,-72.23938,INACTIVO
+SUC096,Sucursal Cartagena 96,Corresponsal,Cartagena,Bolívar,4.60208,-78.6363,INACTIVO
+SUC097,Sucursal Ibagué 97,Cajero,Ibagué,Tolima,3.59281,-76.70631,ACTIVO
+SUC098,Sucursal Cartagena 98,Sucursal,Cartagena,Bolívar,-0.78918,-79.3275,INACTIVO
+SUC099,Sucursal Cali 99,Oficina Principal,Cali,Valle del Cauca,-0.17728,-67.88022,INACTIVO
+SUC100,Sucursal Ibagué 100,Cajero,Ibagué,Tolima,12.26576,-77.90259,INACTIVO
+SUC101,Sucursal Cali 101,Cajero,Cali,Valle del Cauca,-4.81131,-74.51283,INACTIVO
+SUC102,Sucursal Medellín 102,Corresponsal,Medellín,Antioquia,10.35295,-81.34721,ACTIVO
+SUC103,Sucursal Cali 103,Cajero,Cali,Valle del Cauca,12.81985,-74.53102,INACTIVO
+SUC104,Sucursal Cali 104,Cajero,Cali,Valle del Cauca,6.00819,-76.25,ACTIVO
+SUC105,Sucursal Bogotá 105,Cajero,Bogotá,Cundinamarca,5.77154,-71.14005,INACTIVO
+SUC106,Sucursal Barranquilla 106,Oficina Principal,Barranquilla,Atlántico,10.67731,-71.08465,INACTIVO
+SUC107,Sucursal Barranquilla 107,Cajero,Barranquilla,Atlántico,4.92879,-75.18134,ACTIVO
+SUC108,Sucursal Cartagena 108,Sucursal,Cartagena,Bolívar,5.84527,-72.63757,ACTIVO
+SUC109,Sucursal Ibagué 109,Sucursal,Ibagué,Tolima,-2.33359,-80.24329,ACTIVO
+SUC110,Sucursal Armenia 110,Sucursal,Armenia,Quindío,11.66868,-75.05108,INACTIVO
+SUC111,Sucursal Armenia 111,Oficina Principal,Armenia,Quindío,9.82901,-72.75093,INACTIVO
+SUC112,Sucursal Bogotá 112,Sucursal,Bogotá,Cundinamarca,-0.17009,-73.73517,ACTIVO
+SUC113,Sucursal Fusagasugá 113,Corresponsal,Fusagasugá,Cundinamarca,-4.69468,-73.78826,ACTIVO
+SUC114,Sucursal Cartagena 114,Oficina Principal,Cartagena,Bolívar,5.38845,-72.67991,ACTIVO
+SUC115,Sucursal Fusagasugá 115,Corresponsal,Fusagasugá,Cundinamarca,2.81511,-69.56012,ACTIVO
+SUC116,Sucursal Fusagasugá 116,Cajero,Fusagasugá,Cundinamarca,5.67752,-74.78156,INACTIVO
+SUC117,Sucursal Villavicencio 117,Sucursal,Villavicencio,Meta,1.85174,-78.05506,INACTIVO
+SUC118,Sucursal Barranquilla 118,Oficina Principal,Barranquilla,Atlántico,0.40406,-78.26551,INACTIVO
+SUC119,Sucursal Medellín 119,Cajero,Medellín,Antioquia,5.05548,-69.89011,ACTIVO
+SUC120,Sucursal Villavicencio 120,Sucursal,Villavicencio,Meta,7.83051,-73.00146,INACTIVO
+SUC121,Sucursal Fusagasugá 121,Corresponsal,Fusagasugá,Cundinamarca,9.61769,-78.71219,ACTIVO
+SUC122,Sucursal Cartagena 122,Sucursal,Cartagena,Bolívar,-2.11734,-69.60027,INACTIVO
+SUC123,Sucursal Fusagasugá 123,Sucursal,Fusagasugá,Cundinamarca,8.60793,-75.09289,INACTIVO
+SUC124,Sucursal Bogotá 124,Corresponsal,Bogotá,Cundinamarca,0.84775,-68.44957,INACTIVO
+SUC125,Sucursal Medellín 125,Cajero,Medellín,Antioquia,3.47495,-75.97833,ACTIVO
+SUC126,Sucursal Armenia 126,Cajero,Armenia,Quindío,3.5706,-77.37672,ACTIVO
+SUC127,Sucursal Cali 127,Sucursal,Cali,Valle del Cauca,6.51755,-73.23058,INACTIVO
+SUC128,Sucursal San Andrés 128,Sucursal,San Andrés,San Andrés y Providencia,2.09456,-73.44852,ACTIVO
+SUC129,Sucursal Armenia 129,Sucursal,Armenia,Quindío,2.44745,-80.54634,ACTIVO
+SUC130,Sucursal Ibagué 130,Oficina Principal,Ibagué,Tolima,4.70053,-77.72341,INACTIVO
+SUC131,Sucursal Cali 131,Oficina Principal,Cali,Valle del Cauca,12.20559,-74.49257,INACTIVO
+SUC132,Sucursal Villavicencio 132,Sucursal,Villavicencio,Meta,4.17786,-76.48935,ACTIVO
+SUC133,Sucursal Armenia 133,Oficina Principal,Armenia,Quindío,9.91618,-73.42266,ACTIVO
+SUC134,Sucursal Ibagué 134,Sucursal,Ibagué,Tolima,0.63127,-70.81893,ACTIVO
+SUC135,Sucursal San Andrés 135,Sucursal,San Andrés,San Andrés y Providencia,11.96476,-72.18514,INACTIVO
+SUC136,Sucursal Bogotá 136,Oficina Principal,Bogotá,Cundinamarca,7.40527,-72.71018,ACTIVO
+SUC137,Sucursal Medellín 137,Corresponsal,Medellín,Antioquia,4.72235,-71.76319,ACTIVO
+SUC138,Sucursal Ibagué 138,Cajero,Ibagué,Tolima,9.0039,-72.02751,INACTIVO
+SUC139,Sucursal Fusagasugá 139,Corresponsal,Fusagasugá,Cundinamarca,-3.96405,-81.5334,INACTIVO
+SUC140,Sucursal Cali 140,Sucursal,Cali,Valle del Cauca,11.37577,-72.35638,ACTIVO
+SUC141,Sucursal Bogotá 141,Corresponsal,Bogotá,Cundinamarca,9.92585,-78.89022,INACTIVO
+SUC142,Sucursal Cartagena 142,Sucursal,Cartagena,Bolívar,3.95183,-70.33739,ACTIVO
+SUC143,Sucursal Medellín 143,Oficina Principal,Medellín,Antioquia,7.96181,-73.45517,ACTIVO
+SUC144,Sucursal Medellín 144,Oficina Principal,Medellín,Antioquia,3.50691,-68.20256,INACTIVO
+SUC145,Sucursal Bogotá 145,Cajero,Bogotá,Cundinamarca,-4.64591,-68.4373,ACTIVO
+SUC146,Sucursal Medellín 146,Sucursal,Medellín,Antioquia,9.8819,-67.2391,ACTIVO
+SUC147,Sucursal Ibagué 147,Corresponsal,Ibagué,Tolima,3.88491,-74.95996,ACTIVO
+SUC148,Sucursal Barranquilla 148,Sucursal,Barranquilla,Atlántico,11.38043,-78.09377,ACTIVO
+SUC149,Sucursal Bogotá 149,Corresponsal,Bogotá,Cundinamarca,-2.08805,-78.38594,ACTIVO
+SUC150,Sucursal Bogotá 150,Corresponsal,Bogotá,Cundinamarca,-4.53626,-75.99002,INACTIVO
+SUC151,Sucursal Armenia 151,Corresponsal,Armenia,Quindío,-3.61053,-78.16398,INACTIVO
+SUC152,Sucursal Barranquilla 152,Oficina Principal,Barranquilla,Atlántico,-4.8771,-67.26477,ACTIVO
+SUC153,Sucursal Fusagasugá 153,Oficina Principal,Fusagasugá,Cundinamarca,3.54099,-77.23857,INACTIVO
+SUC154,Sucursal San Andrés 154,Sucursal,San Andrés,San Andrés y Providencia,6.54106,-68.05081,INACTIVO
+SUC155,Sucursal Ibagué 155,Corresponsal,Ibagué,Tolima,-0.37412,-75.6317,INACTIVO
+SUC156,Sucursal Bogotá 156,Oficina Principal,Bogotá,Cundinamarca,-0.17564,-80.61973,ACTIVO
+SUC157,Sucursal Fusagasugá 157,Oficina Principal,Fusagasugá,Cundinamarca,1.59759,-67.86552,INACTIVO
+SUC158,Sucursal Ibagué 158,Corresponsal,Ibagué,Tolima,5.86669,-74.21328,ACTIVO
+SUC159,Sucursal Ibagué 159,Oficina Principal,Ibagué,Tolima,3.05103,-76.95365,INACTIVO
+SUC160,Sucursal Armenia 160,Oficina Principal,Armenia,Quindío,11.49544,-66.95388,ACTIVO
+SUC161,Sucursal Armenia 161,Cajero,Armenia,Quindío,5.104,-71.98537,ACTIVO
+SUC162,Sucursal San Andrés 162,Cajero,San Andrés,San Andrés y Providencia,-1.68951,-69.26568,INACTIVO
+SUC163,Sucursal Villavicencio 163,Cajero,Villavicencio,Meta,-0.45113,-73.76364,ACTIVO
+SUC164,Sucursal Barranquilla 164,Corresponsal,Barranquilla,Atlántico,10.30205,-79.16095,INACTIVO
+SUC165,Sucursal Cali 165,Corresponsal,Cali,Valle del Cauca,1.21974,-69.96321,ACTIVO
+SUC166,Sucursal Ibagué 166,Cajero,Ibagué,Tolima,6.6788,-81.29268,INACTIVO
+SUC167,Sucursal Villavicencio 167,Oficina Principal,Villavicencio,Meta,5.17252,-79.75222,ACTIVO
+SUC168,Sucursal Medellín 168,Corresponsal,Medellín,Antioquia,3.51408,-73.903,INACTIVO
+SUC169,Sucursal Medellín 169,Sucursal,Medellín,Antioquia,2.60748,-75.70457,INACTIVO
+SUC170,Sucursal Barranquilla 170,Cajero,Barranquilla,Atlántico,-0.60729,-76.26336,INACTIVO
+SUC171,Sucursal Cali 171,Sucursal,Cali,Valle del Cauca,6.54122,-75.4893,ACTIVO
+SUC172,Sucursal Ibagué 172,Sucursal,Ibagué,Tolima,5.59678,-81.58749,INACTIVO
+SUC173,Sucursal Barranquilla 173,Sucursal,Barranquilla,Atlántico,10.7138,-76.74813,INACTIVO
+SUC174,Sucursal Bogotá 174,Sucursal,Bogotá,Cundinamarca,9.73618,-74.08318,ACTIVO
+SUC175,Sucursal Armenia 175,Cajero,Armenia,Quindío,1.88286,-70.99924,ACTIVO
+SUC176,Sucursal Ibagué 176,Oficina Principal,Ibagué,Tolima,12.90564,-78.9939,ACTIVO
+SUC177,Sucursal San Andrés 177,Corresponsal,San Andrés,San Andrés y Providencia,-1.45838,-78.41056,INACTIVO
+SUC178,Sucursal Barranquilla 178,Sucursal,Barranquilla,Atlántico,0.02265,-77.83964,ACTIVO
+SUC179,Sucursal Medellín 179,Cajero,Medellín,Antioquia,7.72517,-70.42728,INACTIVO
+SUC180,Sucursal Barranquilla 180,Corresponsal,Barranquilla,Atlántico,-1.04659,-72.39317,INACTIVO
+SUC181,Sucursal Villavicencio 181,Sucursal,Villavicencio,Meta,12.97682,-79.16836,INACTIVO
+SUC182,Sucursal Villavicencio 182,Cajero,Villavicencio,Meta,2.28799,-81.23448,INACTIVO
+SUC183,Sucursal Armenia 183,Sucursal,Armenia,Quindío,2.61914,-81.56631,INACTIVO
+SUC184,Sucursal Fusagasugá 184,Corresponsal,Fusagasugá,Cundinamarca,-4.32583,-81.59294,ACTIVO
+SUC185,Sucursal Villavicencio 185,Corresponsal,Villavicencio,Meta,1.75601,-78.44264,INACTIVO
+SUC186,Sucursal Barranquilla 186,Sucursal,Barranquilla,Atlántico,5.85969,-81.79721,INACTIVO
+SUC187,Sucursal Medellín 187,Oficina Principal,Medellín,Antioquia,11.94592,-81.35892,INACTIVO
+SUC188,Sucursal Villavicencio 188,Oficina Principal,Villavicencio,Meta,-4.21471,-78.30939,INACTIVO
+SUC189,Sucursal Villavicencio 189,Corresponsal,Villavicencio,Meta,3.23951,-67.30979,ACTIVO
+SUC190,Sucursal San Andrés 190,Oficina Principal,San Andrés,San Andrés y Providencia,-2.09322,-69.32875,INACTIVO
+SUC191,Sucursal Fusagasugá 191,Corresponsal,Fusagasugá,Cundinamarca,3.66488,-68.15999,ACTIVO
+SUC192,Sucursal Cartagena 192,Corresponsal,Cartagena,Bolívar,12.57747,-72.82389,INACTIVO
+SUC193,Sucursal Villavicencio 193,Sucursal,Villavicencio,Meta,11.80913,-67.17905,INACTIVO
+SUC194,Sucursal San Andrés 194,Cajero,San Andrés,San Andrés y Providencia,-0.61852,-71.56118,INACTIVO
+SUC195,Sucursal Barranquilla 195,Sucursal,Barranquilla,Atlántico,6.15514,-77.22753,ACTIVO
+SUC196,Sucursal Bogotá 196,Oficina Principal,Bogotá,Cundinamarca,-1.96242,-77.57689,ACTIVO
+SUC197,Sucursal Barranquilla 197,Cajero,Barranquilla,Atlántico,3.62545,-73.79231,ACTIVO
+SUC198,Sucursal Barranquilla 198,Cajero,Barranquilla,Atlántico,4.45586,-67.58305,ACTIVO
+SUC199,Sucursal Armenia 199,Cajero,Armenia,Quindío,-0.2003,-75.53295,INACTIVO
+SUC200,Sucursal Villavicencio 200,Sucursal,Villavicencio,Meta,11.75379,-70.9068,INACTIVO
