@@ -46,19 +46,7 @@ Se realiza la conexión de la base de datos en SQL Server Management y Azure
 
 Se crea el Storage Account.    En este caso le coloque el nombre de datos caso1
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+<img width="579" height="593" alt="image" src="https://github.com/user-attachments/assets/5638f124-0468-4afe-9dd9-d46c4e7f5c79" />
 
 
 
@@ -67,14 +55,25 @@ Se crea el Storage Account.    En este caso le coloque el nombre de datos caso1
 Luego una vez se haya creado los archivos de CVS  en el cual se encuentran los datos sintéticos se procede a realizar el cargue de estos 
 
 
+<img width="921" height="419" alt="image" src="https://github.com/user-attachments/assets/e9ee1ba9-620e-489b-aca5-94e83f5a1872" />
+
+
 
  
-
 Una vez creado  en este caso se llama datos   accedemos 
  
 Y buscamos los archivos cvs que se adjuntaran.
+<img width="1002" height="453" alt="image" src="https://github.com/user-attachments/assets/5756b851-90df-403a-9982-5fba7393a22a" />
+
  
 Archivos cvs cargados satisfactoriamente
+
+<img width="921" height="435" alt="image" src="https://github.com/user-attachments/assets/217c2473-d795-4828-8804-36e2e689ad81" />
+
+
+<img width="921" height="410" alt="image" src="https://github.com/user-attachments/assets/7c61e9ff-8a1d-43ce-9552-57f264e4fd49" />
+
+
  
 Una vez creados se procede a  Azure Data Factory
 
