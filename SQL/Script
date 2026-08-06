@@ -1,1 +1,26 @@
+CONSULTAS 
+Cuenta los clientes por ciudad para identificar dónde hay mayor concentración de clientes.
+SELECT ciudad,
+COUNT(*) AS total_clientes
+FROM TB_CLIENTES
+GROUP BY ciudad
+ORDER BY total_clientes DESC;
+///////////////////////////////////////
+Realiza calculo del saldo promedio de cada segmento de clientes.
+SELECT segmento,
+    AVG(saldo) AS saldo_promedio
+FROM TB CLIENTES
+GROUP BY segmento;
 
+/////////////////////////////////////////////////
+Join por id_cli y periodo mensual; calcular ingreso total = intereses + comisiones; calcular CLTV como suma historica de 12 meses
+SELECT
+id_cli,periodo_mensual,intereses,comisiones,
+    (intereses + comisiones) AS ingreso_total,
+    SUM(intereses + comisiones)
+        ORDER BY o.periodo_mensual
+    ) AS CLTV_12_meses
+FROM TB_obligaciones 
+INNER JOIN TB_OBLIGACIONES
+    ON id_cli = id_cli
+   AND periodo_mensual = periodo_mensual;
