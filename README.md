@@ -83,6 +83,67 @@ CREANDO EL DATASET.
 <img width="1909" height="963" alt="image" src="https://github.com/user-attachments/assets/26f1d0f7-2e4a-4f4b-8ed1-6f039efbd54b" />
 
 
+CREACION DE PIPELINES
+
+ Con la creación de los pipelines en este proyecto se busca implementar arquitectura medallón y va a permitir 
+ que  el cliente tenga datos ordenados, limpios, seguros.
+
+  para este caso la estructura que se manejo es:
+  pipeline 1 : Bronze a Silver
+  de esta manera se busca que lea los archivos en formato cvs de Bronze, limpiar los datos y aplicar las reglas del negocio 
+  y obtener un resultado en silver.
+
+  pipeline 2 : Silver a Gold
+  su principal funcion es lograr que de los datos originales de bronze  se conviertan en datos limpios para poder ser utilizados.
+ 
+
+1. Ingrese a  Azure Data Factory
+   <img width="1914" height="827" alt="image" src="https://github.com/user-attachments/assets/515d4dc3-abc6-4f1a-afdd-919494bcbba7" />
+
+   2. se dirige al lado derecho y se selecciona copiar datos
+    <img width="1912" height="941" alt="image" src="https://github.com/user-attachments/assets/50af9505-95e7-470a-b9db-5505ec9c93c0" />
+
+   en la parte inferior aparece origen ,receptor ,asignacion
+
+ <img width="921" height="478" alt="image" src="https://github.com/user-attachments/assets/1d5fb5e6-45be-4a64-9a1c-7417257d67d3" />
+
+
+ <img width="921" height="488" alt="image" src="https://github.com/user-attachments/assets/a8115731-a136-48e9-afb4-cda837116acf" />
+
+
+ <img width="921" height="421" alt="image" src="https://github.com/user-attachments/assets/b4e9b243-e30b-4af4-93b7-dacd88dc8bc7" />
+
+
+
+ 
+ <img width="1904" height="928" alt="image" src="https://github.com/user-attachments/assets/331eb7e0-b8ca-408d-9334-95abcbe6517d" />
+
+
+
+<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/eb86a05f-6fa4-4ffa-94d9-92dfe9de3e25" />
+se valida 
+<img width="1906" height="953" alt="image" src="https://github.com/user-attachments/assets/8ab6c99e-3ef4-4f1e-b5ba-1bbc5feeb114" />
+
+se depura 
+<img width="1918" height="940" alt="image" src="https://github.com/user-attachments/assets/aa4775f2-a45d-47bf-943a-25c01bd917ae" />
+
+para adjuntar las demas tablas  se clonaron con el fin de ahorrar tiempo.
+
+<img width="1914" height="950" alt="image" src="https://github.com/user-attachments/assets/894d1c94-30ab-48a1-97d6-08a652fb044d" />
+
+Pipeline 3: Silver → Gold
+
+se encargara de subir las tablas finales 
+
+
+
+
+
+
+
+
+
+
 
 
 
